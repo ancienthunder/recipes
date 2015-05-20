@@ -1,0 +1,8 @@
+Ingredients:
+	-Milk
+	-Tea powder
+	-Sugar
+
+Method:
+	-Heat the milk with tea powder until it boils.
+	-Add sugar and enjoy.
